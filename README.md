@@ -9,6 +9,8 @@ Multi language
 
 Multi Layout, multi tab
 
+Multi theme app, theme chart
+
 Create scripts
 
 Current run on window.
