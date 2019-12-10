@@ -11,3 +11,6 @@ Multi language
 
 
 Current run on window.
+
+
+https://github.com/OhmPopy/BinTrade/blob/master/v1%201.png
