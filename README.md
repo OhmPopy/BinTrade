@@ -15,5 +15,6 @@ Create scripts
 
 Current run on window.
 
+https://github.com/OhmPopy/BinTrade/blob/master/v1%201.png
 
-https://raw.githubusercontent.com/OhmPopy/BinTrade/master/v1%201.png
+https://github.com/OhmPopy/BinTrade/blob/master/v1%202.png
