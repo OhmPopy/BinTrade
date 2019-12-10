@@ -1,14 +1,15 @@
 # BinTrade
 Trade coin. 
 
-Vendor :Binance, Bitfinex, KuCoin,... . 
+Vendor: Binance, Bitfinex, KuCoin,... . 
 
 Multi indicator overlay, draw tool.
 
-Create scripts
-
 Multi language
 
+Multi Layout, multi tab
+
+Create scripts
 
 Current run on window.
 
