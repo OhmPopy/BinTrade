@@ -1,0 +1,8 @@
+22/05/2021
+system build: BinTrade_Dll.vcxproj
+-----------
+i3-5005u, 8gb ram, hdd ; Debug: 30min ; output: BinTraded.dll
+i3-5005u, 8gb ram, ssd ; Debug: 25min ; output: BinTraded.dll
+i3-5005u, 8gb ram, hdd ; release dev : 30 min ; output: BinTrade.dll
+i3-5005u, 8gb ram, ssd ; release dev : 30 min ; output: BinTrade.dll
+
