@@ -18,10 +18,13 @@ Current run on window.
 
 Snaphot
 
-https://github.com/OhmPopy/BinTrade/blob/master/v1%201.png
 
-https://github.com/OhmPopy/BinTrade/blob/master/v1%202.png
+![alt text](https://github.com/OhmPopy/BinTrade/blob/master/v1%201.png)
 
+![alt text](https://github.com/OhmPopy/BinTrade/blob/master/v1%202.png)
+
+
+![alt text](https://github.com/OhmPopy/BinTrade/blob/master/visual%20editor.png)
 
 PreRelease
 
