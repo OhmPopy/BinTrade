@@ -5,3 +5,5 @@
 2020/01/16 remove all data pre release from 1.0.0.152 to 1.0.0.162
 
 2022/06/17 remove all data pre release from 1.0.0.162 to 1.0.0.260
+
+2022/06/23 remove all data pre release from 1.0.0.261 to 1.0.0.263
